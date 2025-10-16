@@ -1,24 +1,25 @@
 # Corporate Video Production in Dallas | Image Media Lab
 
-**[Image Media Lab]** is a Dallas–Fort Worth based creative video production studio specializing in **corporate video production (https://www.imagemedialab.com)**, brand storytelling, and cinematic business visuals.
+Welcome to the official GitHub repository for Image Media Lab - a creative studio based in Dallas–Fort Worth, Texas.
 
-## 🎬 About Us
-We help companies transform their message into powerful visual content that connects, converts, and inspires.  
-Our team combines years of filmmaking expertise with marketing insight to produce videos that look stunning — and deliver measurable results.
+We specialize in [**corporate video production**](https://www.imagemedialab.com) that helps businesses communicate their stories with clarity, emotion, and cinematic quality. Our mission is to produce professional, high-impact videos that elevate brands and connect with audiences across digital platforms.
 
-## 📍 Services
-- Corporate brand videos  
-- Promotional and marketing content  
-- Client testimonial films  
-- Training and onboarding videos  
-- Aerial drone cinematography  
+## 🎬 What We Do
+- Brand storytelling and promotional videos  
+- Corporate overviews and testimonials  
+- Product and training videos  
 - Event and conference coverage  
+- Drone and aerial cinematography  
 
-## 🧠 Why Choose Image Media Lab
-- Full-service **corporate video production** under one roof  
-- Dallas-based creative team serving DFW and North Texas  
-- Story-driven approach with cinematic quality  
-- Fast turnaround and professional communication  
+## 🧠 Why Choose Us
+- Dallas–Fort Worth local expertise  
+- Full-service production team  
+- Cinematic visuals with strategic messaging  
+- Fast turnaround and transparent communication  
 
-## 🌐 Learn More
-Visit Image Media Lab to explore our portfolio and discover how our Dallas-based **corporate video production** services can help your business stand out.
+## 🌟 Learn More
+To explore our portfolio and discover how Image Media Lab can bring your story to life, visit our official website
+
+---
+
+© 2026 Image Media Lab – Dallas, TX  
