@@ -1,2 +1,24 @@
-# corporate-video-production-dallas
-Professional corporate video production in Dallas by Image Media Lab, delivering cinematic storytelling for brands, businesses, and organizations across DFW. Creative direction, drone videography, and full-service production from concept to delivery.
+# Corporate Video Production in Dallas | Image Media Lab
+
+**[Image Media Lab](https://www.imagemedialab.com)** is a Dallas–Fort Worth based creative video production studio specializing in **corporate video production**, brand storytelling, and cinematic business visuals.
+
+## 🎬 About Us
+We help companies transform their message into powerful visual content that connects, converts, and inspires.  
+Our team combines years of filmmaking expertise with marketing insight to produce videos that look stunning — and deliver measurable results.
+
+## 📍 Services
+- Corporate brand videos  
+- Promotional and marketing content  
+- Client testimonial films  
+- Training and onboarding videos  
+- Aerial drone cinematography  
+- Event and conference coverage  
+
+## 🧠 Why Choose Image Media Lab
+- Full-service **corporate video production** under one roof  
+- Dallas-based creative team serving DFW and North Texas  
+- Story-driven approach with cinematic quality  
+- Fast turnaround and professional communication  
+
+## 🌐 Learn More
+Visit **[Image Media Lab]** to explore our portfolio and discover how our Dallas-based **corporate video production** services can help your business stand out.
