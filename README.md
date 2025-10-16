@@ -1,6 +1,6 @@
 # Corporate Video Production in Dallas | Image Media Lab
 
-**[Image Media Lab](https://www.imagemedialab.com)** is a Dallas–Fort Worth based creative video production studio specializing in **corporate video production**, brand storytelling, and cinematic business visuals.
+**[Image Media Lab]** is a Dallas–Fort Worth based creative video production studio specializing in **corporate video production (https://www.imagemedialab.com)**, brand storytelling, and cinematic business visuals.
 
 ## 🎬 About Us
 We help companies transform their message into powerful visual content that connects, converts, and inspires.  
@@ -21,4 +21,4 @@ Our team combines years of filmmaking expertise with marketing insight to produc
 - Fast turnaround and professional communication  
 
 ## 🌐 Learn More
-Visit **[Image Media Lab]** to explore our portfolio and discover how our Dallas-based **corporate video production** services can help your business stand out.
+Visit Image Media Lab to explore our portfolio and discover how our Dallas-based **corporate video production** services can help your business stand out.
